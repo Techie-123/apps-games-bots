@@ -1,0 +1,21 @@
+.line{
+  width:10px;
+  height:15px;  
+}
+body{
+    text-align:center;
+    font-family:fantasy;
+}
+
+#apps{
+    background-color:blue;
+    color:yellow;
+}
+#games{
+    background-color:black;
+    color:white;
+}
+#chatbots{
+    background-color:yellow;
+    color:black;
+}
